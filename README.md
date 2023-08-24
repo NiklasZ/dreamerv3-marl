@@ -1,3 +1,10 @@
+# What is this? (WIP) 
+This is a work-in-progress repository to extend the DreamerV3 architecture for Reinforcement Learning (RL) tasks to Multi-Agent Reinforcement Learning (MARL). It will entail:
+1. Baseline self-play implementation
+2. Probabilistic self-play where we sample against increasingly difficult past opponents 
+3. Other configuration options (e.g parameter-sharing, custom loss, etc.)
+4. Benchmarks on competitive, cooperative and mixed MARL environments.
+
 # Mastering Diverse Domains through World Models
 
 A reimplementation of [DreamerV3][paper], a scalable and general reinforcement
